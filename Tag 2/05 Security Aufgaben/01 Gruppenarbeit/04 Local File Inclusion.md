@@ -6,7 +6,7 @@ Erstelle eine Website, auf der via Local File Inclusion deine MySQL-Zugangsdaten
 
 ## Lösungshilfe
 
-* Erstelle eine einfache Website, die über den GET-Parameter `content` dynamisch Inhalte anzeigt. Bsp: `index.php?content=home.txt`, `index.php?content=contact.txt`
+* Erstelle eine einfache Website, die über den GET-Parameter `content` dynamisch Inhalte anzeigt. Bsp: `index.php?content=home`, `index.php?content=contact`
 
 ```php
 <h2>Seite</h2>
