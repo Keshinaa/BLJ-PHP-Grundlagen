@@ -35,4 +35,4 @@ Erstelle nun einen Ordner `geheim` und speichere deine MySQL-Zugangsdaten in die
 |-- index.php
 ```
 
-Wie kann ein Angreifer nun an deine Zugangsdaten gelangen? Wie kannst du dieses Problem verhindern? Was kannst du über diese Lücke sonst noch anstellen? Welche Dateien auf deinem Computer müssen immer geheim bleiben?
+Wie kann ein Angreifer nun an deine Zugangsdaten gelangen (ohne sie direkt im Browser aufzurufen)? Wie kannst du dieses Problem verhindern? Was kannst du über diese Lücke sonst noch anstellen? Welche Dateien auf deinem Computer müssen immer geheim bleiben?
