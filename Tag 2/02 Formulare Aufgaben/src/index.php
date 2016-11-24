@@ -13,13 +13,6 @@
 
         <p>Füllen Sie das folgende Formular aus um sich für unseren Kundenevent 2016 anzumelden.</p>
 
-        <!-- SCHRITT 1 -->
-        <ul class="errors">
-            <li>Bitte geben Sie einen Namen ein.</li>
-            <li>Die Email-Adresse "google.com" ist ungültig.</li>
-        </ul>
-        <!-- /SCHRITT 1 -->
-
         <form action="index.php" method="post">
 
             <fieldset>
